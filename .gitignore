@@ -1,0 +1,15 @@
+# WorkBuddy 工作区数据（本地记忆、配置，不入库）
+.workbuddy-ai/
+.codebuddy/
+
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# 临时文件
+*.tmp
+*.bak
+~$*
